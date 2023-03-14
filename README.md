@@ -35,4 +35,8 @@ Step 2: Hit Download! Unzip and Extract All contents. <br>
 Step 3: Locate the .jar file by clicking on the folder <br>
 Step 4: Add the .jar file to 'Referened Libraries' section of your IDE <br>
 
+## --> Initialize the Database <--
+Admin Key: AI6g!V48k1Zo <br>
+
 # Limitations
+1. There is no reset button in the current version, which means that you will have to re run the code every time to input a new value. I am working on a fix to this issue and will fix it before the end of March
