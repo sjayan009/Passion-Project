@@ -14,4 +14,9 @@ MySQLDB.java contains all the methods to create tables, update tables, choosing 
 
 In MySQLDB.java, the use of the JFreeChart library helped make the graphs that shows the number of points each student has per grade. If the graph gets small, just expand it using the Maximize button
 
-# Limitations
+# Possible Errors / Troubleshooting
+Downloading these files and running Swing.java is bound to give you an error message in the console.
+
+##  Downloading the MySQL Workbench Java Connector
+
+
