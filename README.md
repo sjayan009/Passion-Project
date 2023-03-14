@@ -1,4 +1,4 @@
-# Passion-Project
+# Passion Project
 
 This is a Java Program that is supposed to boost kids' involvement in 10 recurring School Wide Events. <br>
 Many Java Swing Components(Checkboxes, Text Fields, Buttons, CheckBoxes, ScrollPane, Panel, etc.) were used to form the GUI of the application. <br>
