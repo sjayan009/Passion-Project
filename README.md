@@ -17,6 +17,19 @@ In MySQLDB.java, the use of the JFreeChart library helped make the graphs that s
 # Possible Errors / Troubleshooting
 Downloading these files and running Swing.java is bound to give you an error message in the console.
 
-##  Downloading the MySQL Workbench Java Connector
+## --> Downloading the MySQL Workbench Java Connector <--
+These steps are designed for Windows Computers. If you have a different Operating System, please look up how to download MySQL Workbench to your specific OS.
+Step 1: Go to https://dev.mysql.com/downloads/connector/j/
+Step 2: Select your OS(Operating System) and click on Go To Downloads Page
+Step 3: Select the First Download(the one with the less size).
+Step 4: Follow all prompts in the MSI Launcher/Installer MAKE SURE TO SAVE YOUR PASSWORD ON A SHEET OF PAPER OR SOMEPLACE SAFE
+Step 5: To locate the .jar file and add it to 'Refrened Libraries' of your IDE, go to "C:\Program Files (x86)\MySQL\Connector J 8.0\mysql-connector-j-8.0.32.jar"
 
+## --> Downloading the JFreeChart Library <--
+These steps are designed for Windows Computers.
+Step 1: Go to https://sourceforge.net/projects/jfreechart/files/
+Step 2: Hit Download! Unzip and Extract All contents.
+Step 3: Locate the .jar file by clicking on the folder
+Step 4: Add the .jar file to 'Referened Libraries' section of your IDE
 
+# Limitations
