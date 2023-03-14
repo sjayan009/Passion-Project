@@ -15,7 +15,6 @@ MySQLDB.java contains all the methods to create tables, update tables, choosing 
 In MySQLDB.java, the use of the JFreeChart library helped make the graphs that shows the number of points each student has per grade. If the graph gets small, just expand it using the Maximize button
 
 # Possible Errors / Troubleshooting
-Downloading these files and running Swing.java is bound to give you an error message in the console.
 
 ## --> Downloading the MySQL Workbench Java Connector <--
 These steps are designed for Windows Computers. If you have a different Operating System, please look up how to download MySQL Workbench to your specific OS.
@@ -24,6 +23,10 @@ Step 2: Select your OS(Operating System) and click on Go To Downloads Page
 Step 3: Select the First Download(the one with the less size).
 Step 4: Follow all prompts in the MSI Launcher/Installer MAKE SURE TO SAVE YOUR PASSWORD ON A SHEET OF PAPER OR SOMEPLACE SAFE
 Step 5: To locate the .jar file and add it to 'Refrened Libraries' of your IDE, go to "C:\Program Files (x86)\MySQL\Connector J 8.0\mysql-connector-j-8.0.32.jar"
+
+## --> Navigate to MySQLDB.java file <--
+These steps are to make sure you have established a connection with the databse when you run Swing.java
+Step 1: Take your password and replace it where it says REPLACE PASSWORD
 
 ## --> Downloading the JFreeChart Library <--
 These steps are designed for Windows Computers.
